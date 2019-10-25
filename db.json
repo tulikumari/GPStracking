@@ -1,0 +1,36 @@
+{
+    "snappedPoints":[
+    {
+      "latitude": -33.9244,
+      "longitude": 18.4230
+    },
+    {
+        "latitude": -33.9234,
+        "longitude": 18.4240
+    },
+    {
+        "latitude": -33.9239,
+        "longitude": 18.4247
+    },
+    {
+        "latitude": -33.9236,
+        "longitude": 18.4250
+    },
+    {
+        "latitude": -33.9243,
+        "longitude": 18.4259
+    },
+     {
+        "latitude": -33.9246,
+        "longitude": 18.4257
+    },
+    {
+        "latitude": -33.9248,
+        "longitude": 18.4259
+    },
+    {
+        "latitude": -33.9244,
+        "longitude": 18.4262
+    }
+  ]
+}
